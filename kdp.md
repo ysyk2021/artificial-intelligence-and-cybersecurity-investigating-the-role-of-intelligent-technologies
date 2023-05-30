@@ -12,7 +12,7 @@ Subsequent chapters will delve deeper into specific areas of cybersecurity where
 
 Throughout the book, we will draw on real-world examples of intelligent technologies in cybersecurity, as well as case studies of successful cybersecurity strategies and best practices. By understanding the ways in which AI and other intelligent technologies are being used in cybersecurity, we can develop effective strategies for protecting against cyber threats and safeguarding our digital assets.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
