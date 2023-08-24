@@ -1,5 +1,3 @@
-Chapter 6: Economic Implications of AI in Cybersecurity
-=======================================================
 
 The use of artificial intelligence (AI) in cybersecurity has significant economic implications. In this chapter, we will explore the cost savings and efficiency improvements that can be achieved through the implementation of AI-powered cybersecurity solutions. We will also discuss the potential job creation and training needs associated with the use of AI in this field.
 

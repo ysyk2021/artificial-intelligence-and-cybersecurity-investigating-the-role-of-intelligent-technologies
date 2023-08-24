@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Cybersecurity
-==================================================================
 
 The use of artificial intelligence (AI) in cybersecurity raises several ethical and legal issues that must be considered. In this chapter, we will explore the ethical considerations related to AI in cybersecurity and the legal framework that governs its use.
 

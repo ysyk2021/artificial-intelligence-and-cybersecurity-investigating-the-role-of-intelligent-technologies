@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) is a field of computer science that focuses on creating machines that can perform tasks typically requiring human-like intelligence, such as recognizing patterns and making decisions. One of the key techniques used in AI is machine learning, which involves the use of algorithms to enable computers to learn from data and improve their performance over time.
 

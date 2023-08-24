@@ -1,5 +1,3 @@
-Chapter 3: Cybersecurity Landscape
-==================================
 
 To understand the role that artificial intelligence (AI) plays in cybersecurity, it is essential to first examine the overall cybersecurity landscape. In this chapter, we will explore global trends in cybersecurity and threats, as well as the components of the cybersecurity industry.
 

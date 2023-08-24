@@ -1,5 +1,3 @@
-Incident Response and Recovery
-=============================================================================
 
 AI-powered cybersecurity solutions are transforming the incident response and recovery process. In this chapter, we will discuss how AI is being used to respond to and recover from cyber incidents, including its benefits and challenges.
 

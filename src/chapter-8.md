@@ -1,5 +1,3 @@
-Chapter 8: Future of AI and Cybersecurity
-=========================================
 
 The field of artificial intelligence (AI) is constantly evolving, and its impact on cybersecurity is growing rapidly. In this chapter, we will explore the emerging trends and future prospects of AI in cybersecurity.
 

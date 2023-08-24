@@ -1,5 +1,3 @@
-Components of Cybersecurity Industry
-========================================================================
 
 In this chapter, we will explore the different components that make up the cybersecurity industry. Understanding the different players and their roles in the industry is essential for developing effective strategies to protect against cyber threats.
 

@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To understand the role that artificial intelligence (AI) plays in cybersecurity, it is essential to first examine the background and fundamentals of AI. In this chapter, we will explore the history of AI, types of AI, and machine learning techniques.
 

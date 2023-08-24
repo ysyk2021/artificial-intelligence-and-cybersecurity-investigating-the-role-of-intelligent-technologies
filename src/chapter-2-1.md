@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 In this chapter, we will explore the history of artificial intelligence (AI), including its origins, key developments, and major breakthroughs. Understanding the historical context of AI is essential for developing a comprehensive understanding of the field.
 

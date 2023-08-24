@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Cybersecurity
-======================================
 
 The use of artificial intelligence (AI) in cybersecurity is a rapidly growing phenomenon. In this chapter, we will explore the benefits, challenges, and limitations of using AI in cybersecurity.
 

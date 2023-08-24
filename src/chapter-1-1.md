@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Cybersecurity
-==============================================================================
 
 In recent years, the field of artificial intelligence (AI) has experienced rapid growth and development. AI technologies have shown significant potential to revolutionize various industries, including cybersecurity.
 

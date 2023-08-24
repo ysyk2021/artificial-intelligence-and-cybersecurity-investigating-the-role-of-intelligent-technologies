@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Cybersecurity Solutions
-=============================================
 
 The use of artificial intelligence (AI) in cybersecurity has the potential to revolutionize the field. In this chapter, we will explore the different AI-powered cybersecurity solutions that are available today.
 

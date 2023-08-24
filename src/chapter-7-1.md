@@ -1,5 +1,3 @@
-Ethical Considerations
-==========================================================================================
 
 The integration of AI into cybersecurity raises ethical and legal issues related to privacy, security, and liability. In this chapter, we will focus specifically on the ethical considerations surrounding AI in cybersecurity.
 

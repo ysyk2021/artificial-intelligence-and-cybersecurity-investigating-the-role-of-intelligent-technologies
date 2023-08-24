@@ -1,5 +1,3 @@
-Legal Framework
-===================================================================================
 
 The integration of AI into cybersecurity raises ethical and legal issues related to privacy, security, and liability. In this chapter, we will discuss the legal framework surrounding AI in cybersecurity and the potential ethical and legal implications.
 

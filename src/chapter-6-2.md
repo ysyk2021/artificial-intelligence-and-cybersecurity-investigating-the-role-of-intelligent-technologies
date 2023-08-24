@@ -1,5 +1,3 @@
-Job Creation and Training Needs
-========================================================================================
 
 The integration of AI into cybersecurity has significant economic implications, both in terms of job creation and training needs. In this chapter, we will discuss these economic implications in more detail.
 
