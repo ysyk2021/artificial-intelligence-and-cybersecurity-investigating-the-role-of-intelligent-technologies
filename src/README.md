@@ -10,3 +10,7 @@ Subsequent chapters will delve deeper into specific areas of cybersecurity where
 Throughout the book, we will draw on real-world examples of intelligent technologies in cybersecurity, as well as case studies of successful cybersecurity strategies and best practices. By understanding the ways in which AI and other intelligent technologies are being used in cybersecurity, we can develop effective strategies for protecting against cyber threats and safeguarding our digital assets.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
