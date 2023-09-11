@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the different types of artificial intelligence (AI) and their applications in the field of cybersecurity. Understanding the various AI types is essential for comprehending the role of intelligent technologies in protecting against cyber threats effectively.
 

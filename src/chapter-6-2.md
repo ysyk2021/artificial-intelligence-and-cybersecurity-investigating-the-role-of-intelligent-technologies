@@ -1,5 +1,4 @@
-Chapter: Job Creation and Training Needs
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the impact of artificial intelligence (AI) on job creation in the field of cybersecurity. As AI technologies continue to evolve, they play a crucial role in protecting against cyber threats. However, these advancements also necessitate new skillsets and training requirements for professionals in the cybersecurity industry.
 

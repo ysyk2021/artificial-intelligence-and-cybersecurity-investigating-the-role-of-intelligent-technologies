@@ -1,5 +1,4 @@
-Chapter: Global Trends in Cybersecurity and Threats
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the global trends in cybersecurity and threats, highlighting the evolving landscape of cyber attacks and the role of artificial intelligence (AI) in addressing these challenges. Understanding these trends is crucial for organizations to stay ahead of emerging threats and adopt effective cybersecurity strategies.
 
